@@ -4,7 +4,7 @@
 
 **Negrita**
 
-*cursiva*
+*italica*
 
 - 1
 
